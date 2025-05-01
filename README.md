@@ -1,6 +1,6 @@
 # leroy
 
-![leroy](https://imgur.com/a/chyxp7H)
+![leroy](images/Leroy Final Render.png)
 
 This is a hand wired macro pad with 8 keys and 2 encoders.
 
