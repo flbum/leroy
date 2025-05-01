@@ -6,3 +6,5 @@ CYT1100 Rotary Encoder x2
 3D Printed Case
 Arduino Pro Micro (Atmega34u)
 USB-C Cable
+Rosen Core Solder
+Heat Shrink Tubing
