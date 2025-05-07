@@ -11,7 +11,7 @@ const uint16_t PROGMEM encoder_map[][NUM_ENCODERS][2] = {
 
 const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
     [0] = LAYOUT(
-        KC_ESC,                          KC_MEDIA_PLAY_PAUSE,
+        KC_ESC,                  KC_MEDIA_PLAY_PAUSE,
         KC_A,  KC_B,    KC_C,    KC_D,
         KC_1,  KC_2,    KC_3,    KC_4
     ),
